@@ -1,0 +1,7 @@
+ADbasic Project File 1002000
+4
+44 2 3 -1 -1 -1 -1 -9 -9 1929 1039
+".\Merz_M11_Lander_Zeit_Initialisierung.bas" 1
+".\Merz_M11_Lander_Ansteuerung.bas" 0 44 0 1 -1 -1 -1 -1 0 0 1054 512
+".\Merz_M11_Lander_Messdatenerfassung_ADC.bas" 0 44 2 3 -1 -1 -1 -1 -9 -38 1624 789
+".\Merz_M11_Lander_Messdatenerfassung_Thermos.bas" 1

@@ -1,0 +1,7 @@
+.idea
+.vscode
+.devcontainer
+**/__pycache__/**
+NotebookScript.ipynb
+Testergebnisse
+#Schubmessung
